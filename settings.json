@@ -1,5 +1,5 @@
 {
-  "telegram_token": "1107135651:AAHBM2OjqRhfG_gRlREjEIix3NQhzCJNFLM",
+  "telegram_token": "YOUR_TELEGRAM_TOKEN_HERE",
   "telnet_port": "12345",
-  "chatId": "852071856"
+  "chatId": "YOU_CHATID"
 }
